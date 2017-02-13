@@ -1,1 +1,1 @@
-merge master
+alter by @master
